@@ -2,6 +2,7 @@
 
 ### My
 
+  - [windows删除隐藏离线设备方法][69853d44e48937b75e54]
   - [shadowsocks作者说的很对的一句话与感想][0765f90c98c0c1259de7]
   - [翻墙 | 懒人在思考：我是如何优雅且靠谱地翻墙][4c3af00ba8e5908acb7c]
   - [VirtualBox虚拟机安装Ubuntu 14.04屏幕显示不全问题解决][a90c6ca306b2fab7b9a9]
@@ -16,7 +17,7 @@
 
 --------
 
-
+[69853d44e48937b75e54]: https://gist.github.com/muink/69853d44e48937b75e54
 [0765f90c98c0c1259de7]: https://gist.github.com/muink/0765f90c98c0c1259de7
 [4c3af00ba8e5908acb7c]: https://gist.github.com/muink/4c3af00ba8e5908acb7c
 [a90c6ca306b2fab7b9a9]: https://gist.github.com/muink/a90c6ca306b2fab7b9a9
