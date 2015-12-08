@@ -1,7 +1,8 @@
-## 点滴记录列表
+﻿## 点滴记录列表
 
 ### My
 
+  - [删除Chrome地址栏记录中不需要的网址(访问历史)][f7c0c4818cd3936b01d1]
   - [windows删除隐藏离线设备方法][69853d44e48937b75e54]
   - [shadowsocks作者说的很对的一句话与感想][0765f90c98c0c1259de7]
   - [翻墙 | 懒人在思考：我是如何优雅且靠谱地翻墙][4c3af00ba8e5908acb7c]
@@ -17,6 +18,7 @@
 
 --------
 
+[f7c0c4818cd3936b01d1]: https://gist.github.com/muink/f7c0c4818cd3936b01d1
 [69853d44e48937b75e54]: https://gist.github.com/muink/69853d44e48937b75e54
 [0765f90c98c0c1259de7]: https://gist.github.com/muink/0765f90c98c0c1259de7
 [4c3af00ba8e5908acb7c]: https://gist.github.com/muink/4c3af00ba8e5908acb7c
