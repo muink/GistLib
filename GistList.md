@@ -2,6 +2,7 @@
 
 ### My
 
+  - [msi-GE系列实现Win键与Fn键对换][2c91d29357e17aac22f7]
   - [删除Chrome地址栏记录中不需要的网址(访问历史)][f7c0c4818cd3936b01d1]
   - [windows删除隐藏离线设备方法][69853d44e48937b75e54]
   - [shadowsocks作者说的很对的一句话与感想][0765f90c98c0c1259de7]
@@ -18,6 +19,7 @@
 
 --------
 
+[2c91d29357e17aac22f7]: https://gist.github.com/muink/2c91d29357e17aac22f7
 [f7c0c4818cd3936b01d1]: https://gist.github.com/muink/f7c0c4818cd3936b01d1
 [69853d44e48937b75e54]: https://gist.github.com/muink/69853d44e48937b75e54
 [0765f90c98c0c1259de7]: https://gist.github.com/muink/0765f90c98c0c1259de7
