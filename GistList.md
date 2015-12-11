@@ -2,6 +2,7 @@
 
 ### My
 
+  - [以太网卡上传速度极慢解决方法][bc4867f7cf422cb20b17]
   - [msi-GE系列实现Win键与Fn键对换][2c91d29357e17aac22f7]
   - [删除Chrome地址栏记录中不需要的网址(访问历史)][f7c0c4818cd3936b01d1]
   - [windows删除隐藏离线设备方法][69853d44e48937b75e54]
@@ -19,6 +20,7 @@
 
 --------
 
+[bc4867f7cf422cb20b17]: https://gist.github.com/muink/bc4867f7cf422cb20b17
 [2c91d29357e17aac22f7]: https://gist.github.com/muink/2c91d29357e17aac22f7
 [f7c0c4818cd3936b01d1]: https://gist.github.com/muink/f7c0c4818cd3936b01d1
 [69853d44e48937b75e54]: https://gist.github.com/muink/69853d44e48937b75e54
