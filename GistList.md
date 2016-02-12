@@ -2,6 +2,7 @@
 
 ### My
 
+  - [SSD写入优化与Chrome 自定义缓存/用户数据路径][d44b4d4413bee528955d]
   - [以太网卡上传速度极慢解决方法][bc4867f7cf422cb20b17]
   - [msi-GE系列实现Win键与Fn键对换][2c91d29357e17aac22f7]
   - [删除Chrome地址栏记录中不需要的网址(访问历史)][f7c0c4818cd3936b01d1]
@@ -20,6 +21,7 @@
 
 --------
 
+[d44b4d4413bee528955d]: https://gist.github.com/d44b4d4413bee528955d
 [bc4867f7cf422cb20b17]: https://gist.github.com/muink/bc4867f7cf422cb20b17
 [2c91d29357e17aac22f7]: https://gist.github.com/muink/2c91d29357e17aac22f7
 [f7c0c4818cd3936b01d1]: https://gist.github.com/muink/f7c0c4818cd3936b01d1
