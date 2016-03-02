@@ -14,6 +14,9 @@
 
 ### Forked
 
+  - [git全局配置][1398d31e529d49b71e74]
+  - [使用Notepad++作為預設編輯器][0ec05f29db94a35f4b9b]
+  - [移除Win7Win8.1的遥测更新][14adc6208b847a117d82]
   - [PS4 网络环境优化][0356af6c133ee0fc82c8]
   - [如何在路由器中实现透明代理？][6c4b4a5c90eea956c30a]
   - [github的多人协作][c53d05e07d69c6d0830e]
@@ -21,7 +24,7 @@
 
 --------
 
-[d44b4d4413bee528955d]: https://gist.github.com/d44b4d4413bee528955d
+[d44b4d4413bee528955d]: https://gist.github.com/muink/d44b4d4413bee528955d
 [bc4867f7cf422cb20b17]: https://gist.github.com/muink/bc4867f7cf422cb20b17
 [2c91d29357e17aac22f7]: https://gist.github.com/muink/2c91d29357e17aac22f7
 [f7c0c4818cd3936b01d1]: https://gist.github.com/muink/f7c0c4818cd3936b01d1
@@ -30,6 +33,9 @@
 [4c3af00ba8e5908acb7c]: https://gist.github.com/muink/4c3af00ba8e5908acb7c
 [a90c6ca306b2fab7b9a9]: https://gist.github.com/muink/a90c6ca306b2fab7b9a9
 
+[1398d31e529d49b71e74]: https://gist.github.com/muink/1398d31e529d49b71e74
+[0ec05f29db94a35f4b9b]: https://gist.github.com/muink/0ec05f29db94a35f4b9b
+[14adc6208b847a117d82]: https://gist.github.com/muink/14adc6208b847a117d82
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
