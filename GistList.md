@@ -2,6 +2,7 @@
 
 ### My
 
+  - [移除windows中已不需要的驱动程序][4282dddd294be493b3e117bd08a01e59]
   - [Adobe CC Desktop提取离线安装包与更新包方法][c31ef412164bc6961992]
   - [SSD写入优化与Chrome 自定义缓存/用户数据路径][d44b4d4413bee528955d]
   - [以太网卡上传速度极慢解决方法][bc4867f7cf422cb20b17]
@@ -25,6 +26,7 @@
 
 --------
 
+[4282dddd294be493b3e117bd08a01e59]: https://gist.github.com/muink/4282dddd294be493b3e117bd08a01e59
 [c31ef412164bc6961992]: https://gist.github.com/muink/c31ef412164bc6961992
 [d44b4d4413bee528955d]: https://gist.github.com/muink/d44b4d4413bee528955d
 [bc4867f7cf422cb20b17]: https://gist.github.com/muink/bc4867f7cf422cb20b17
