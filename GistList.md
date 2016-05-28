@@ -2,6 +2,7 @@
 
 ### My
 
+  - [换ssd无损迁移windows系统(传统引导方式,非uefi)][b7a63c35762467b3ca8440e3ea439fcf]
   - [跨区安装锁区play应用][024e9e883b0dc19d1704e1c569baffd4]
   - [移除windows中已不需要的驱动程序][4282dddd294be493b3e117bd08a01e59]
   - [Adobe CC Desktop提取离线安装包与更新包方法][c31ef412164bc6961992]
@@ -27,6 +28,7 @@
 
 --------
 
+[b7a63c35762467b3ca8440e3ea439fcf]: https://gist.github.com/muink/b7a63c35762467b3ca8440e3ea439fcf
 [024e9e883b0dc19d1704e1c569baffd4]: https://gist.github.com/muink/024e9e883b0dc19d1704e1c569baffd4
 [4282dddd294be493b3e117bd08a01e59]: https://gist.github.com/muink/4282dddd294be493b3e117bd08a01e59
 [c31ef412164bc6961992]: https://gist.github.com/muink/c31ef412164bc6961992
