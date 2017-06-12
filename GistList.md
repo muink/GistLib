@@ -2,6 +2,7 @@
 
 ### My
 
+  - [制作一个单独的xna字库][f32800d7930855d8b4394bafd0893447]
   - [win7重灌需要安装的补丁][0f20bd15db319dda5b85dafaeb77f406]
   - [Huawei Nexus 6P Angler fastboot commands][7d7f955613d71e30dc9c2c4cd675be3c]
   - [换ssd无损迁移windows系统(传统引导方式,非uefi)][b7a63c35762467b3ca8440e3ea439fcf]
@@ -30,6 +31,7 @@
 
 --------
 
+[f32800d7930855d8b4394bafd0893447]: https://gist.github.com/muink/f32800d7930855d8b4394bafd0893447
 [0f20bd15db319dda5b85dafaeb77f406]: https://gist.github.com/muink/0f20bd15db319dda5b85dafaeb77f406
 [7d7f955613d71e30dc9c2c4cd675be3c]: https://gist.github.com/muink/7d7f955613d71e30dc9c2c4cd675be3c
 [b7a63c35762467b3ca8440e3ea439fcf]: https://gist.github.com/muink/b7a63c35762467b3ca8440e3ea439fcf
