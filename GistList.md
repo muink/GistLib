@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Wacom数位板驱动服务重启][c28b1452b2fd2a47cc1eb1be19444f8a]
   - [制作一个单独的xna字库][f32800d7930855d8b4394bafd0893447]
   - [win7重灌需要安装的补丁][0f20bd15db319dda5b85dafaeb77f406]
   - [Huawei Nexus 6P Angler fastboot commands][7d7f955613d71e30dc9c2c4cd675be3c]
@@ -31,6 +32,7 @@
 
 --------
 
+[c28b1452b2fd2a47cc1eb1be19444f8a]: https://gist.github.com/muink/c28b1452b2fd2a47cc1eb1be19444f8a
 [f32800d7930855d8b4394bafd0893447]: https://gist.github.com/muink/f32800d7930855d8b4394bafd0893447
 [0f20bd15db319dda5b85dafaeb77f406]: https://gist.github.com/muink/0f20bd15db319dda5b85dafaeb77f406
 [7d7f955613d71e30dc9c2c4cd675be3c]: https://gist.github.com/muink/7d7f955613d71e30dc9c2c4cd675be3c
