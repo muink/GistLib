@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Automatically deploy common public libraries and runtime][f36af0f4b5647f348f18cb2103a1c451]
   - [Wacom数位板驱动服务重启][c28b1452b2fd2a47cc1eb1be19444f8a]
   - [制作一个单独的xna字库][f32800d7930855d8b4394bafd0893447]
   - [win7重灌需要安装的补丁][0f20bd15db319dda5b85dafaeb77f406]
@@ -32,6 +33,7 @@
 
 --------
 
+[f36af0f4b5647f348f18cb2103a1c451]: https://gist.github.com/muink/f36af0f4b5647f348f18cb2103a1c451
 [c28b1452b2fd2a47cc1eb1be19444f8a]: https://gist.github.com/muink/c28b1452b2fd2a47cc1eb1be19444f8a
 [f32800d7930855d8b4394bafd0893447]: https://gist.github.com/muink/f32800d7930855d8b4394bafd0893447
 [0f20bd15db319dda5b85dafaeb77f406]: https://gist.github.com/muink/0f20bd15db319dda5b85dafaeb77f406
