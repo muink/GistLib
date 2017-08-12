@@ -2,6 +2,7 @@
 
 ### My
 
+  - [下载Adobe官方提供的离线安装包][185db495204d1d345a052d64c246f38b]
   - [Automatically deploy common public libraries and runtime][f36af0f4b5647f348f18cb2103a1c451]
   - [Wacom数位板驱动服务重启][c28b1452b2fd2a47cc1eb1be19444f8a]
   - [制作一个单独的xna字库][f32800d7930855d8b4394bafd0893447]
@@ -33,6 +34,7 @@
 
 --------
 
+[185db495204d1d345a052d64c246f38b]: https://gist.github.com/muink/185db495204d1d345a052d64c246f38b
 [f36af0f4b5647f348f18cb2103a1c451]: https://gist.github.com/muink/f36af0f4b5647f348f18cb2103a1c451
 [c28b1452b2fd2a47cc1eb1be19444f8a]: https://gist.github.com/muink/c28b1452b2fd2a47cc1eb1be19444f8a
 [f32800d7930855d8b4394bafd0893447]: https://gist.github.com/muink/f32800d7930855d8b4394bafd0893447
