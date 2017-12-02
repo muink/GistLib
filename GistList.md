@@ -2,6 +2,7 @@
 
 ### My
 
+  - [windows传统bios无损转uefi启动(重建uefi引导)][5e7706facb2dc4e2a5ae77a07ab2ffd7]
   - [Manual Certs][6cec2cfd0740181f989a7dfa5813e3ce]
   - [网卡MAC选项添加器][e27dd8f7927eb6b59a31d9677d20571e]
   - [使用命令行设置系统环境变量][5ba30059ecaaebb69d9153a3805340ed]
@@ -37,6 +38,7 @@
 
 --------
 
+[5e7706facb2dc4e2a5ae77a07ab2ffd7]: https://gist.github.com/muink/5e7706facb2dc4e2a5ae77a07ab2ffd7
 [6cec2cfd0740181f989a7dfa5813e3ce]: https://gist.github.com/muink/6cec2cfd0740181f989a7dfa5813e3ce
 [e27dd8f7927eb6b59a31d9677d20571e]: https://gist.github.com/muink/e27dd8f7927eb6b59a31d9677d20571e
 [5ba30059ecaaebb69d9153a3805340ed]: https://gist.github.com/muink/5ba30059ecaaebb69d9153a3805340ed
