@@ -2,6 +2,7 @@
 
 ### My
 
+  - [U+B+隐藏区挂载工具][4934c624d6992824f667677c6de56117]
   - [windows传统bios无损转uefi启动(重建uefi引导)][5e7706facb2dc4e2a5ae77a07ab2ffd7]
   - [Manual Certs][6cec2cfd0740181f989a7dfa5813e3ce]
   - [网卡MAC选项添加器][e27dd8f7927eb6b59a31d9677d20571e]
@@ -38,6 +39,7 @@
 
 --------
 
+[4934c624d6992824f667677c6de56117]: https://gist.github.com/muink/4934c624d6992824f667677c6de56117
 [5e7706facb2dc4e2a5ae77a07ab2ffd7]: https://gist.github.com/muink/5e7706facb2dc4e2a5ae77a07ab2ffd7
 [6cec2cfd0740181f989a7dfa5813e3ce]: https://gist.github.com/muink/6cec2cfd0740181f989a7dfa5813e3ce
 [e27dd8f7927eb6b59a31d9677d20571e]: https://gist.github.com/muink/e27dd8f7927eb6b59a31d9677d20571e
