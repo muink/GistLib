@@ -13,7 +13,7 @@
   - [制作一个单独的xna字库][f32800d7930855d8b4394bafd0893447]
   - [win7重灌需要安装的补丁][0f20bd15db319dda5b85dafaeb77f406]
   - [Huawei Nexus 6P Angler fastboot commands][7d7f955613d71e30dc9c2c4cd675be3c]
-  - [换ssd无损迁移windows系统(传统引导方式,非uefi)][b7a63c35762467b3ca8440e3ea439fcf]
+  - [换ssd无损迁移windows系统(重建mbr引导)][b7a63c35762467b3ca8440e3ea439fcf]
   - [跨区安装锁区play应用][024e9e883b0dc19d1704e1c569baffd4]
   - [移除windows中已不需要的驱动程序][4282dddd294be493b3e117bd08a01e59]
   - [Adobe CC Desktop提取离线安装包与更新包方法][c31ef412164bc6961992]
