@@ -2,6 +2,7 @@
 
 ### My
 
+  - [b3_x64.bat][aeaacd153395481927d35f3db909bb6d]
   - [Windows 7 x64 镜像整合 (ie11 sp2 xhci NVMe uefi 规避硬件检查 常用运行库)][6523b401af0e383d90ab189c85e860cd]
   - [U+B+隐藏区挂载工具][4934c624d6992824f667677c6de56117]
   - [windows传统bios无损转uefi启动(重建uefi引导)][5e7706facb2dc4e2a5ae77a07ab2ffd7]
@@ -40,6 +41,7 @@
 
 --------
 
+[aeaacd153395481927d35f3db909bb6d]: https://gist.github.com/muink/aeaacd153395481927d35f3db909bb6d
 [6523b401af0e383d90ab189c85e860cd]: https://gist.github.com/muink/6523b401af0e383d90ab189c85e860cd
 [4934c624d6992824f667677c6de56117]: https://gist.github.com/muink/4934c624d6992824f667677c6de56117
 [5e7706facb2dc4e2a5ae77a07ab2ffd7]: https://gist.github.com/muink/5e7706facb2dc4e2a5ae77a07ab2ffd7
