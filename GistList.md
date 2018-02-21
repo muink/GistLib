@@ -2,6 +2,8 @@
 
 ### My
 
+  - [ElementaryOS引导修正][5bb5542656a8c38ce54faf93663847cb]
+  - [UEFI模式下的win7 64位安装][7e337b2070cc47a1fab7de714ad83fb8]
   - [b3_x64.bat][aeaacd153395481927d35f3db909bb6d]
   - [Windows 7 x64 镜像整合 (ie11 sp2 xhci NVMe uefi 规避硬件检查 常用运行库)][6523b401af0e383d90ab189c85e860cd]
   - [U+B+隐藏区挂载工具][4934c624d6992824f667677c6de56117]
@@ -41,6 +43,8 @@
 
 --------
 
+[5bb5542656a8c38ce54faf93663847cb]: https://gist.github.com/muink/5bb5542656a8c38ce54faf93663847cb
+[7e337b2070cc47a1fab7de714ad83fb8]: https://gist.github.com/muink/7e337b2070cc47a1fab7de714ad83fb8
 [aeaacd153395481927d35f3db909bb6d]: https://gist.github.com/muink/aeaacd153395481927d35f3db909bb6d
 [6523b401af0e383d90ab189c85e860cd]: https://gist.github.com/muink/6523b401af0e383d90ab189c85e860cd
 [4934c624d6992824f667677c6de56117]: https://gist.github.com/muink/4934c624d6992824f667677c6de56117
