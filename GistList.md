@@ -2,6 +2,7 @@
 
 ### My
 
+  - [factorio-pumpjack-gen.bat][a6d92a01ae7d40d05be7a662e197bd5f]
   - [Resilio Sync恢复方案][f72e87c7ea39a23dc5d6fd8c02ffce86]
   - [关于3.5单端和2.5 3.5 4.4 平衡间互相转换的几条定理][26f76c7ce3ae4e49d755813c43360cc1]
   - [ElementaryOS引导修正][5bb5542656a8c38ce54faf93663847cb]
@@ -45,6 +46,7 @@
 
 --------
 
+[a6d92a01ae7d40d05be7a662e197bd5f]: https://gist.github.com/muink/a6d92a01ae7d40d05be7a662e197bd5f
 [f72e87c7ea39a23dc5d6fd8c02ffce86]: https://gist.github.com/muink/f72e87c7ea39a23dc5d6fd8c02ffce86
 [26f76c7ce3ae4e49d755813c43360cc1]: https://gist.github.com/muink/26f76c7ce3ae4e49d755813c43360cc1
 [5bb5542656a8c38ce54faf93663847cb]: https://gist.github.com/muink/5bb5542656a8c38ce54faf93663847cb
