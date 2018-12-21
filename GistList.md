@@ -2,6 +2,7 @@
 
 ### My
 
+  - [letter_view.bat][72c633c65ddbfaf9aee4c336b191d99c]
   - [factorio-pumpjack-gen.bat][a6d92a01ae7d40d05be7a662e197bd5f]
   - [Gpg4win_mkportable.bat][40db93e26119fd244cf67db31b31e63f]
   - [Resilio Sync恢复方案][f72e87c7ea39a23dc5d6fd8c02ffce86]
@@ -47,6 +48,7 @@
 
 --------
 
+[72c633c65ddbfaf9aee4c336b191d99c]: https://gist.github.com/muink/72c633c65ddbfaf9aee4c336b191d99c
 [a6d92a01ae7d40d05be7a662e197bd5f]: https://gist.github.com/muink/a6d92a01ae7d40d05be7a662e197bd5f
 [40db93e26119fd244cf67db31b31e63f]: https://gist.github.com/muink/40db93e26119fd244cf67db31b31e63f
 [f72e87c7ea39a23dc5d6fd8c02ffce86]: https://gist.github.com/muink/f72e87c7ea39a23dc5d6fd8c02ffce86
