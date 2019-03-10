@@ -36,7 +36,9 @@
   - [Gpg4win_mkportable.bat][40db93e26119fd244cf67db31b31e63f]
   - [b3_x64.bat][aeaacd153395481927d35f3db909bb6d]
   - [U+B+隐藏区挂载工具][4934c624d6992824f667677c6de56117]
+  - [UsbBoot-Installer](https://github.com/muink/UsbBoot-Installer)
   - [网卡MAC选项添加器][e27dd8f7927eb6b59a31d9677d20571e]
+  - [GitHub App Deploy Fetcher](https://github.com/muink/GitHub_App_Deploy_Fetcher)
   - [Automatically deploy common public libraries and runtime][f36af0f4b5647f348f18cb2103a1c451]
   - [Wacom数位板驱动服务重启][c28b1452b2fd2a47cc1eb1be19444f8a]
 
