@@ -21,6 +21,7 @@
 ### Operating system
   - [ElementaryOS引导修正][5bb5542656a8c38ce54faf93663847cb]
   - [UEFI模式下的win7 64位安装][7e337b2070cc47a1fab7de714ad83fb8]
+  - [windows系统重装快速离线恢复激活][581456faac2f76beed6375321d57f59a]
   - [windows传统bios无损转uefi启动(重建uefi引导)][5e7706facb2dc4e2a5ae77a07ab2ffd7]
   - [换ssd无损迁移windows系统(重建mbr引导)][b7a63c35762467b3ca8440e3ea439fcf]
   - [Windows 7 x64 镜像整合 (ie11 sp2 xhci NVMe uefi 规避硬件检查 常用运行库)][6523b401af0e383d90ab189c85e860cd]
@@ -55,6 +56,7 @@
 
 --------
 
+[581456faac2f76beed6375321d57f59a]: https://gist.github.com/muink/581456faac2f76beed6375321d57f59a
 [72c633c65ddbfaf9aee4c336b191d99c]: https://gist.github.com/muink/72c633c65ddbfaf9aee4c336b191d99c
 [a6d92a01ae7d40d05be7a662e197bd5f]: https://gist.github.com/muink/a6d92a01ae7d40d05be7a662e197bd5f
 [40db93e26119fd244cf67db31b31e63f]: https://gist.github.com/muink/40db93e26119fd244cf67db31b31e63f
