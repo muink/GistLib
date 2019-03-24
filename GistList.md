@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Unicode2Ansi.txt][0ac786cb39a7fbd64a1e046fd0681237]
   - [Resilio Sync恢复方案][f72e87c7ea39a23dc5d6fd8c02ffce86]
   - [关于3.5单端和2.5 3.5 4.4 平衡间互相转换的几条定理][26f76c7ce3ae4e49d755813c43360cc1]
   - [Manual Certs][6cec2cfd0740181f989a7dfa5813e3ce]
@@ -56,6 +57,7 @@
 
 --------
 
+[0ac786cb39a7fbd64a1e046fd0681237]: https://gist.github.com/muink/0ac786cb39a7fbd64a1e046fd0681237
 [581456faac2f76beed6375321d57f59a]: https://gist.github.com/muink/581456faac2f76beed6375321d57f59a
 [72c633c65ddbfaf9aee4c336b191d99c]: https://gist.github.com/muink/72c633c65ddbfaf9aee4c336b191d99c
 [a6d92a01ae7d40d05be7a662e197bd5f]: https://gist.github.com/muink/a6d92a01ae7d40d05be7a662e197bd5f
