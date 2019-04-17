@@ -20,6 +20,7 @@
   - [VirtualBox虚拟机安装Ubuntu 14.04屏幕显示不全问题解决][a90c6ca306b2fab7b9a9]
 
 ### Operating system
+  - [MiniTool_Launcher.bat][ef186142b8249162a895396866b0a9c9]
   - [ElementaryOS引导修正][5bb5542656a8c38ce54faf93663847cb]
   - [UEFI模式下的win7 64位安装][7e337b2070cc47a1fab7de714ad83fb8]
   - [windows系统重装快速离线恢复激活][581456faac2f76beed6375321d57f59a]
@@ -57,6 +58,7 @@
 
 --------
 
+[ef186142b8249162a895396866b0a9c9]: https://gist.github.com/muink/ef186142b8249162a895396866b0a9c9
 [0ac786cb39a7fbd64a1e046fd0681237]: https://gist.github.com/muink/0ac786cb39a7fbd64a1e046fd0681237
 [581456faac2f76beed6375321d57f59a]: https://gist.github.com/muink/581456faac2f76beed6375321d57f59a
 [72c633c65ddbfaf9aee4c336b191d99c]: https://gist.github.com/muink/72c633c65ddbfaf9aee4c336b191d99c
