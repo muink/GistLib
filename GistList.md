@@ -20,6 +20,7 @@
   - [VirtualBox虚拟机安装Ubuntu 14.04屏幕显示不全问题解决][a90c6ca306b2fab7b9a9]
 
 ### Operating system
+  - [普通系统切换为WTG的方法][1f963c5229328c4f5da408076af13448]
   - [简单的WTG部署参考][72049cb50dabf2249c42eba971484ba9]
   - [MiniTool_Launcher.bat][ef186142b8249162a895396866b0a9c9]
   - [ElementaryOS引导修正][5bb5542656a8c38ce54faf93663847cb]
@@ -61,6 +62,7 @@
 
 --------
 
+[1f963c5229328c4f5da408076af13448]: https://gist.github.com/muink/1f963c5229328c4f5da408076af13448
 [72049cb50dabf2249c42eba971484ba9]: https://gist.github.com/muink/72049cb50dabf2249c42eba971484ba9
 [27c8b19156e142ae404265c18926c7ec]: https://gist.github.com/muink/27c8b19156e142ae404265c18926c7ec
 [ef186142b8249162a895396866b0a9c9]: https://gist.github.com/muink/ef186142b8249162a895396866b0a9c9
