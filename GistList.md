@@ -42,6 +42,7 @@
   - [b3_x64.bat][aeaacd153395481927d35f3db909bb6d]
   - [U+B+隐藏区挂载工具][4934c624d6992824f667677c6de56117]
   - [UsbBoot-Installer](https://github.com/muink/UsbBoot-Installer)
+  - [win7-efi-gop-boot-tool](https://github.com/muink/win7-efi-gop-boot-tool)
   - [网卡MAC选项添加器][e27dd8f7927eb6b59a31d9677d20571e]
   - [GitHub App Deploy Fetcher](https://github.com/muink/GitHub_App_Deploy_Fetcher)
   - [Automatically deploy common public libraries and runtime][f36af0f4b5647f348f18cb2103a1c451]
