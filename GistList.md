@@ -47,7 +47,7 @@
   - [网卡MAC选项添加器][e27dd8f7927eb6b59a31d9677d20571e]
   - [GitHub App Deploy Fetcher](https://github.com/muink/GitHub_App_Deploy_Fetcher)
   - [Automatically deploy common public libraries and runtime][f36af0f4b5647f348f18cb2103a1c451]
-  - [Wacom数位板驱动服务重启][c28b1452b2fd2a47cc1eb1be19444f8a]
+  - [reboot-wacom-driver-service.bat][c28b1452b2fd2a47cc1eb1be19444f8a]
 
 
 ### Forked
