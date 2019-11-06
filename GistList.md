@@ -2,6 +2,7 @@
 
 ### My
 
+  - [how-to-install-viper4android-on-android-10.md][48933929b321893e32c1442303c53fc9]
   - [git-latest-github-releases.md][f2041123690d0273730a071318cb8b47]
   - [Unicode2Ansi.txt][0ac786cb39a7fbd64a1e046fd0681237]
   - [Resilio Sync恢复方案][f72e87c7ea39a23dc5d6fd8c02ffce86]
@@ -53,6 +54,8 @@
 
 ### Forked
 
+  - [One Liner to Download the Latest Release from Github Repo.md][c5ee7db7dd7257abe5be8bbaee0baf5d]
+  - [get_latest_release.sh][ee96bcc6627f7814453a35efd2b98db5]
   - [git全局配置][1398d31e529d49b71e74]
   - [使用Notepad++作為預設編輯器][0ec05f29db94a35f4b9b]
   - [移除Win7Win8.1的遥测更新][14adc6208b847a117d82]
@@ -63,6 +66,7 @@
 
 --------
 
+[48933929b321893e32c1442303c53fc9]: https://gist.github.com/muink/48933929b321893e32c1442303c53fc9
 [f2041123690d0273730a071318cb8b47]: https://gist.github.com/muink/f2041123690d0273730a071318cb8b47
 [1f963c5229328c4f5da408076af13448]: https://gist.github.com/muink/1f963c5229328c4f5da408076af13448
 [72049cb50dabf2249c42eba971484ba9]: https://gist.github.com/muink/72049cb50dabf2249c42eba971484ba9
@@ -103,6 +107,8 @@
 [4c3af00ba8e5908acb7c]: https://gist.github.com/muink/4c3af00ba8e5908acb7c
 [a90c6ca306b2fab7b9a9]: https://gist.github.com/muink/a90c6ca306b2fab7b9a9
 
+[ee96bcc6627f7814453a35efd2b98db5]: https://gist.github.com/muink/ee96bcc6627f7814453a35efd2b98db5
+[c5ee7db7dd7257abe5be8bbaee0baf5d]: https://gist.github.com/muink/c5ee7db7dd7257abe5be8bbaee0baf5d
 [1398d31e529d49b71e74]: https://gist.github.com/muink/1398d31e529d49b71e74
 [0ec05f29db94a35f4b9b]: https://gist.github.com/muink/0ec05f29db94a35f4b9b
 [14adc6208b847a117d82]: https://gist.github.com/muink/14adc6208b847a117d82
