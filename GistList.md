@@ -2,6 +2,7 @@
 
 ### My
 
+  - [git-credential-windows.txt][3edeca7fa9afa8db812a0cf67b3f06a2]
   - [how-to-install-viper4android-on-android-10.md][48933929b321893e32c1442303c53fc9]
   - [git-latest-github-releases.md][f2041123690d0273730a071318cb8b47]
   - [Unicode2Ansi.txt][0ac786cb39a7fbd64a1e046fd0681237]
@@ -66,6 +67,7 @@
 
 --------
 
+[3edeca7fa9afa8db812a0cf67b3f06a2]: https://gist.github.com/muink/3edeca7fa9afa8db812a0cf67b3f06a2
 [48933929b321893e32c1442303c53fc9]: https://gist.github.com/muink/48933929b321893e32c1442303c53fc9
 [f2041123690d0273730a071318cb8b47]: https://gist.github.com/muink/f2041123690d0273730a071318cb8b47
 [1f963c5229328c4f5da408076af13448]: https://gist.github.com/muink/1f963c5229328c4f5da408076af13448
