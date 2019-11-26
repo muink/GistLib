@@ -2,6 +2,7 @@
 
 ### My
 
+  - [JMS583-SMART-INFO.md][d187cf8f66669f30d67b05d463c7d010]
   - [git-credential-windows.txt][3edeca7fa9afa8db812a0cf67b3f06a2]
   - [how-to-install-viper4android-on-android-10.md][48933929b321893e32c1442303c53fc9]
   - [git-latest-github-releases.md][f2041123690d0273730a071318cb8b47]
@@ -55,6 +56,7 @@
 
 ### Forked
 
+  - [List of Shell Icon Overlay Identifiers](https://en.wikipedia.org/wiki/List_of_Shell_Icon_Overlay_Identifiers)
   - [One Liner to Download the Latest Release from Github Repo.md][c5ee7db7dd7257abe5be8bbaee0baf5d]
   - [get_latest_release.sh][ee96bcc6627f7814453a35efd2b98db5]
   - [git全局配置][1398d31e529d49b71e74]
@@ -67,6 +69,7 @@
 
 --------
 
+[d187cf8f66669f30d67b05d463c7d010]: https://gist.github.com/muink/d187cf8f66669f30d67b05d463c7d010
 [3edeca7fa9afa8db812a0cf67b3f06a2]: https://gist.github.com/muink/3edeca7fa9afa8db812a0cf67b3f06a2
 [48933929b321893e32c1442303c53fc9]: https://gist.github.com/muink/48933929b321893e32c1442303c53fc9
 [f2041123690d0273730a071318cb8b47]: https://gist.github.com/muink/f2041123690d0273730a071318cb8b47
