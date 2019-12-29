@@ -57,6 +57,7 @@
 
 ### Forked
 
+  - [谈谈 Chrome 隐藏 https 和 www 那些事](https://blog.skk.moe/post/chrome-omnibox-www/)
   - [List of Shell Icon Overlay Identifiers](https://en.wikipedia.org/wiki/List_of_Shell_Icon_Overlay_Identifiers)
   - [One Liner to Download the Latest Release from Github Repo.md][c5ee7db7dd7257abe5be8bbaee0baf5d]
   - [get_latest_release.sh][ee96bcc6627f7814453a35efd2b98db5]
