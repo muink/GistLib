@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Openwrt本地源构建][6363ea7136fff1252315b7d239498586]
   - [JMS583-SMART-INFO.md][d187cf8f66669f30d67b05d463c7d010]
   - [git-credential-windows.txt][3edeca7fa9afa8db812a0cf67b3f06a2]
   - [how-to-install-viper4android-on-android-10.md][48933929b321893e32c1442303c53fc9]
@@ -69,6 +70,7 @@
 
 --------
 
+[6363ea7136fff1252315b7d239498586]: https://gist.github.com/muink/6363ea7136fff1252315b7d239498586
 [d187cf8f66669f30d67b05d463c7d010]: https://gist.github.com/muink/d187cf8f66669f30d67b05d463c7d010
 [3edeca7fa9afa8db812a0cf67b3f06a2]: https://gist.github.com/muink/3edeca7fa9afa8db812a0cf67b3f06a2
 [48933929b321893e32c1442303c53fc9]: https://gist.github.com/muink/48933929b321893e32c1442303c53fc9
