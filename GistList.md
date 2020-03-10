@@ -41,6 +41,7 @@
 
 ### Tools
 
+  - [getsysinfo.bat][2d8f77e7e6a2adfd314d13bf54c746c7]
   - [PcapDNS_Launcher.bat][27c8b19156e142ae404265c18926c7ec]
   - [letter_view.bat][72c633c65ddbfaf9aee4c336b191d99c]
   - [factorio-pumpjack-gen.bat][a6d92a01ae7d40d05be7a662e197bd5f]
@@ -72,6 +73,7 @@
 
 --------
 
+[2d8f77e7e6a2adfd314d13bf54c746c7]: https://gist.github.com/muink/2d8f77e7e6a2adfd314d13bf54c746c7
 [6363ea7136fff1252315b7d239498586]: https://gist.github.com/muink/6363ea7136fff1252315b7d239498586
 [d187cf8f66669f30d67b05d463c7d010]: https://gist.github.com/muink/d187cf8f66669f30d67b05d463c7d010
 [3edeca7fa9afa8db812a0cf67b3f06a2]: https://gist.github.com/muink/3edeca7fa9afa8db812a0cf67b3f06a2
