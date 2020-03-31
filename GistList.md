@@ -60,6 +60,8 @@
 
 ### Forked
 
+  - [Windows 10 自带那么多图标，去哪里找呢？](https://gist.github.com/muink/559b247d4a5ca7059ea36ab46c74e68a)
+  - [Windows环境变量在注册表中存储位置](https://gist.github.com/muink/26d28f96eec526b33e3065e38f897b1f)
   - [谈谈 Chrome 隐藏 https 和 www 那些事](https://blog.skk.moe/post/chrome-omnibox-www/)
   - [List of Shell Icon Overlay Identifiers](https://en.wikipedia.org/wiki/List_of_Shell_Icon_Overlay_Identifiers)
   - [One Liner to Download the Latest Release from Github Repo.md][c5ee7db7dd7257abe5be8bbaee0baf5d]
