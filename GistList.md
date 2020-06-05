@@ -60,6 +60,7 @@
 
 ### Forked
 
+  - [Linux 让终端走代理的几种方法](https://zhuanlan.zhihu.com/p/46973701)
   - [Windows 10 自带那么多图标，去哪里找呢？](https://gist.github.com/muink/559b247d4a5ca7059ea36ab46c74e68a)
   - [Windows环境变量在注册表中存储位置](https://gist.github.com/muink/26d28f96eec526b33e3065e38f897b1f)
   - [谈谈 Chrome 隐藏 https 和 www 那些事](https://blog.skk.moe/post/chrome-omnibox-www/)
