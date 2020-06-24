@@ -43,6 +43,7 @@
 
 ### Tools
 
+  - [fakechar.txt][30317bad07c06a71cddcd079359b3483]
   - [SteamAppKeysCleanAndExport.bat][67d885b22fd989d0742cc564781b8fee]
   - [getsysinfo.bat][2d8f77e7e6a2adfd314d13bf54c746c7]
   - [PcapDNS_Launcher.bat][27c8b19156e142ae404265c18926c7ec]
@@ -80,6 +81,7 @@
 
 --------
 
+[30317bad07c06a71cddcd079359b3483]: https://gist.github.com/muink/30317bad07c06a71cddcd079359b3483
 [584a0424fd9345fbe693050cf0ba8da5]: https://gist.github.com/muink/584a0424fd9345fbe693050cf0ba8da5
 [67d885b22fd989d0742cc564781b8fee]: https://gist.github.com/muink/67d885b22fd989d0742cc564781b8fee
 [2d8f77e7e6a2adfd314d13bf54c746c7]: https://gist.github.com/muink/2d8f77e7e6a2adfd314d13bf54c746c7
