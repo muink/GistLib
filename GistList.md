@@ -63,6 +63,7 @@
 
 ### Forked
 
+  - [禁用并还原chrome的扩展管理按钮](https://www.extfans.com/articles/1187/)
   - [解决 git clone 慢的问题](https://blog.colafornia.me/post/2018/slove-git-clone-speed/)
   - [Linux 让终端走代理的几种方法](https://zhuanlan.zhihu.com/p/46973701)
   - [Windows 10 自带那么多图标，去哪里找呢？](https://gist.github.com/muink/559b247d4a5ca7059ea36ab46c74e68a)
