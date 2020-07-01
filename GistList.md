@@ -63,6 +63,7 @@
 
 ### Forked
 
+  - [Chromeの拡張機能アイコンを非表示にして消す方法を画像で解説](https://asean-info.net/Investment/20062601-how-to-hide-google-chrome-extension-icon/)
   - [禁用并还原chrome的扩展管理按钮](https://www.extfans.com/articles/1187/)
   - [解决 git clone 慢的问题](https://blog.colafornia.me/post/2018/slove-git-clone-speed/)
   - [Linux 让终端走代理的几种方法](https://zhuanlan.zhihu.com/p/46973701)
