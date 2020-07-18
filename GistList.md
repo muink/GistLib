@@ -63,6 +63,8 @@
 
 ### Forked
 
+  - [域名服务器缓存污染“1·21”域名解析大规模](http://www.11st22.com/d/2020529221240_3115_723162868/news)
+  - [DNS被污染后怎么才能解决？](https://www.hotbak.net/key/%E6%B2%A1%E8%A2%AB%E6%B1%A1%E6%9F%93%E7%9A%84dns.html)
   - [Chromeの拡張機能アイコンを非表示にして消す方法を画像で解説](https://asean-info.net/Investment/20062601-how-to-hide-google-chrome-extension-icon/)
   - [禁用并还原chrome的扩展管理按钮](https://www.extfans.com/articles/1187/)
   - [解决 git clone 慢的问题](https://blog.colafornia.me/post/2018/slove-git-clone-speed/)
