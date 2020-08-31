@@ -43,6 +43,7 @@
 
 ### Tools
 
+  - [list-user-sid.bat][3ca7524d588c340867e9e753ccc7af51]
   - [IDN_homograph_attack.txt][30317bad07c06a71cddcd079359b3483]
   - [SteamAppKeysCleanAndExport.bat][67d885b22fd989d0742cc564781b8fee]
   - [getsysinfo.bat][2d8f77e7e6a2adfd314d13bf54c746c7]
@@ -87,6 +88,7 @@
 
 --------
 
+[3ca7524d588c340867e9e753ccc7af51]: https://gist.github.com/muink/3ca7524d588c340867e9e753ccc7af51
 [30317bad07c06a71cddcd079359b3483]: https://gist.github.com/muink/30317bad07c06a71cddcd079359b3483
 [584a0424fd9345fbe693050cf0ba8da5]: https://gist.github.com/muink/584a0424fd9345fbe693050cf0ba8da5
 [67d885b22fd989d0742cc564781b8fee]: https://gist.github.com/muink/67d885b22fd989d0742cc564781b8fee
