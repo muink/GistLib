@@ -64,6 +64,9 @@
 
 ### Forked
 
+  - [shell 命令行参数（getopt和getopts）](https://blog.51cto.com/steed/2443718)
+  - [Shell 参数(2) --解析命令行参数工具：getopts/getopt](https://www.cnblogs.com/yxzfscg/p/5338775.html)
+  - [参数扩展(Shell Parameter Expansion)](https://juejin.im/post/6844903842966929422#heading-11)
   - [讀書筆記 — 當代對抗TCP Off-path攻擊的能力](https://medium.com/@wenchenx/%E8%AE%80%E6%9B%B8%E7%AD%86%E8%A8%98-%E7%95%B6%E4%BB%A3%E5%B0%8D%E6%8A%97tcp-off-path%E6%94%BB%E6%93%8A%E7%9A%84%E8%83%BD%E5%8A%9B-b67a4f81b5a0)
   - [GFW的DNS包伪造的简单研究](https://blog.ddosolitary.org/posts/research-on-dns-packet-forgery-of-gfw/)
   - [域名服务器缓存污染“1·21”域名解析大规模](http://www.11st22.com/d/2020529221240_3115_723162868/news)
