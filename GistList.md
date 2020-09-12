@@ -64,6 +64,7 @@
 
 ### Forked
 
+  - [Shell 脚本传参方法总结](https://www.jianshu.com/p/d3cd36c97abc)
   - [shell 命令行参数（getopt和getopts）](https://blog.51cto.com/steed/2443718)
   - [Shell 参数(2) --解析命令行参数工具：getopts/getopt](https://www.cnblogs.com/yxzfscg/p/5338775.html)
   - [参数扩展(Shell Parameter Expansion)](https://juejin.im/post/6844903842966929422#heading-11)
