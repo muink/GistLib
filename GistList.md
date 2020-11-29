@@ -2,6 +2,7 @@
 
 ### My
 
+  - [禁用 Chrome 87 的擴展按鈕][57ffa6c6ccad08094552b57cea1c8172]
   - [根据 IP 地址 反查 域名][584a0424fd9345fbe693050cf0ba8da5]
   - [Openwrt本地源构建][6363ea7136fff1252315b7d239498586]
   - [JMS583-SMART-INFO.md][d187cf8f66669f30d67b05d463c7d010]
@@ -92,6 +93,7 @@
 
 --------
 
+[57ffa6c6ccad08094552b57cea1c8172]: https://gist.github.com/muink/57ffa6c6ccad08094552b57cea1c8172
 [3ca7524d588c340867e9e753ccc7af51]: https://gist.github.com/muink/3ca7524d588c340867e9e753ccc7af51
 [30317bad07c06a71cddcd079359b3483]: https://gist.github.com/muink/30317bad07c06a71cddcd079359b3483
 [584a0424fd9345fbe693050cf0ba8da5]: https://gist.github.com/muink/584a0424fd9345fbe693050cf0ba8da5
