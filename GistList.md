@@ -66,6 +66,8 @@
 
 ### Forked
 
+  - [【备份】youtube-dl使用介绍](https://web.archive.org/web/20210221153730if_/https://www.jianshu.com/p/6bae57859325)
+  - [Windows 10禁用「USB选择性暂停设置」，解决USB设备失灵问题](https://web.archive.org/web/20210126093401/https://www.sysgeek.cn/windows-10-usb-selective-suspend/)
   - [How to Change Automatic Maintenance Settings in Windows 10](https://web.archive.org/web/20210328043433/https://www.tenforums.com/tutorials/3090-change-automatic-maintenance-settings-windows-10-a.html)
   - [Prevent Windows from waking up from sleep for System Maintenance](https://web.archive.org/web/20210328043812/https://theohbrothers.com/prevent-windows-10-from-waking-up-from-sleep-for-system-maintenance/)
   - [Question about scheduled tasks waking the computer](https://web.archive.org/web/20210328050804/https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings-winpc/question-about-scheduled-tasks-waking-the-computer/92d03cd6-c2ac-4746-949b-0d42bc4b91e3)
