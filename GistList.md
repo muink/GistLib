@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Disable Extensions Toolbar Menu in Google Chrome][5c007f3ac6cd695f2c9b0cee1fbe892c]
   - [在rooted設備上使用Magisk進行OTA更新[保留root和TWRP]][6168ee24b2376e7073adf9825e006d49]
   - [禁用 Chrome 87 的擴展按鈕][57ffa6c6ccad08094552b57cea1c8172]
   - [根据 IP 地址 反查 域名][584a0424fd9345fbe693050cf0ba8da5]
@@ -99,6 +100,7 @@
 
 --------
 
+[5c007f3ac6cd695f2c9b0cee1fbe892c]: https://gist.github.com/muink/5c007f3ac6cd695f2c9b0cee1fbe892c
 [6168ee24b2376e7073adf9825e006d49]: https://gist.github.com/muink/6168ee24b2376e7073adf9825e006d49
 [57ffa6c6ccad08094552b57cea1c8172]: https://gist.github.com/muink/57ffa6c6ccad08094552b57cea1c8172
 [3ca7524d588c340867e9e753ccc7af51]: https://gist.github.com/muink/3ca7524d588c340867e9e753ccc7af51
