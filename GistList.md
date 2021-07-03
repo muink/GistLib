@@ -67,6 +67,7 @@
 
 ### Forked
 
+  - [How do I embed multiple sizes in an .ico file?](https://web.archive.org/web/20210703121032/https://superuser.com/questions/491180/how-do-i-embed-multiple-sizes-in-an-ico-file)
   - [【备份】youtube-dl使用介绍](https://web.archive.org/web/20210221153730if_/https://www.jianshu.com/p/6bae57859325)
   - [Windows 10禁用「USB选择性暂停设置」，解决USB设备失灵问题](https://web.archive.org/web/20210126093401/https://www.sysgeek.cn/windows-10-usb-selective-suspend/)
   - [How to Change Automatic Maintenance Settings in Windows 10](https://web.archive.org/web/20210328043433/https://www.tenforums.com/tutorials/3090-change-automatic-maintenance-settings-windows-10-a.html)
