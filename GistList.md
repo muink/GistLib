@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Magisk Safetynet fix][3329f319e082a3602bbbc4d31ba2feb2]
   - [Access /data/data on Android 11/12][44f33ce2f4c6055a6d428e007569bb0a]
   - [Disable Extensions Toolbar Menu in Google Chrome][5c007f3ac6cd695f2c9b0cee1fbe892c]
   - [在rooted設備上使用Magisk進行OTA更新[保留root和TWRP]][6168ee24b2376e7073adf9825e006d49]
@@ -102,7 +103,7 @@
 
 
 --------
-
+[3329f319e082a3602bbbc4d31ba2feb2]: https://gist.github.com/muink/3329f319e082a3602bbbc4d31ba2feb2
 [44f33ce2f4c6055a6d428e007569bb0a]: https://gist.github.com/muink/44f33ce2f4c6055a6d428e007569bb0a
 [5c007f3ac6cd695f2c9b0cee1fbe892c]: https://gist.github.com/muink/5c007f3ac6cd695f2c9b0cee1fbe892c
 [6168ee24b2376e7073adf9825e006d49]: https://gist.github.com/muink/6168ee24b2376e7073adf9825e006d49
