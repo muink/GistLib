@@ -2,10 +2,9 @@
 
 ### My
 
-  - [Magisk Safetynet fix][3329f319e082a3602bbbc4d31ba2feb2]
-  - [Access /data/data on Android 11/12][44f33ce2f4c6055a6d428e007569bb0a]
+  - [常見網絡連接狀態指示器 (NCSI) 及強制門戶 (Captive Portal) 認證地址][cf333ed1ce0ef7cc24d1425dc854883e]
+  - [通用 Captive Portal 檢測伺服器, 在中國大陸也可用][e1b118bc37e4b81e5ccfa082f70e0999]
   - [Disable Extensions Toolbar Menu in Google Chrome][5c007f3ac6cd695f2c9b0cee1fbe892c]
-  - [在rooted設備上使用Magisk進行OTA更新[保留root和TWRP]][6168ee24b2376e7073adf9825e006d49]
   - [禁用 Chrome 87 的擴展按鈕][57ffa6c6ccad08094552b57cea1c8172]
   - [根据 IP 地址 反查 域名][584a0424fd9345fbe693050cf0ba8da5]
   - [Openwrt本地源构建][6363ea7136fff1252315b7d239498586]
@@ -32,6 +31,9 @@
 
 ### Operating system
 
+  - [Magisk Safetynet fix][3329f319e082a3602bbbc4d31ba2feb2]
+  - [Access /data/data on Android 11/12][44f33ce2f4c6055a6d428e007569bb0a]
+  - [在rooted設備上使用Magisk進行OTA更新[保留root和TWRP]][6168ee24b2376e7073adf9825e006d49]
   - [普通系统切换为WTG的方法][1f963c5229328c4f5da408076af13448]
   - [简单的WTG部署参考][72049cb50dabf2249c42eba971484ba9]
   - [MiniTool_Launcher.bat][ef186142b8249162a895396866b0a9c9]
@@ -103,6 +105,9 @@
 
 
 --------
+
+[cf333ed1ce0ef7cc24d1425dc854883e]: https://gist.github.com/muink/cf333ed1ce0ef7cc24d1425dc854883e
+[e1b118bc37e4b81e5ccfa082f70e0999]: https://gist.github.com/muink/e1b118bc37e4b81e5ccfa082f70e0999
 [3329f319e082a3602bbbc4d31ba2feb2]: https://gist.github.com/muink/3329f319e082a3602bbbc4d31ba2feb2
 [44f33ce2f4c6055a6d428e007569bb0a]: https://gist.github.com/muink/44f33ce2f4c6055a6d428e007569bb0a
 [5c007f3ac6cd695f2c9b0cee1fbe892c]: https://gist.github.com/muink/5c007f3ac6cd695f2c9b0cee1fbe892c
