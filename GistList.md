@@ -71,6 +71,7 @@
 
 ### Forked
 
+  - [关于程序中使用内部1.1V参考电压的问题](https://web.archive.org/web/20220216132223/https://www.arduino.cn/thread-11271-1-1.html)
   - [degree symbol on Oled screen using u8g](https://web.archive.org/web/20220216131145/https://forum.arduino.cc/t/degree-symbol-on-oled-screen-using-u8g/491533)
   - [How to print the degree symbol ? (extended ASCII)](https://web.archive.org/web/20220216131216/https://forum.arduino.cc/t/solved-how-to-print-the-degree-symbol-extended-ascii/438685)
   - [Win11 跳过TPM检查 MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat)
