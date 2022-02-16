@@ -71,6 +71,8 @@
 
 ### Forked
 
+  - [degree symbol on Oled screen using u8g](https://web.archive.org/web/20220216131145/https://forum.arduino.cc/t/degree-symbol-on-oled-screen-using-u8g/491533)
+  - [How to print the degree symbol ? (extended ASCII)](https://web.archive.org/web/20220216131216/https://forum.arduino.cc/t/solved-how-to-print-the-degree-symbol-extended-ascii/438685)
   - [Win11 跳过TPM检查 MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat)
   - [How do I embed multiple sizes in an .ico file?](https://web.archive.org/web/20210703121032/https://superuser.com/questions/491180/how-do-i-embed-multiple-sizes-in-an-ico-file)
   - [【备份】youtube-dl使用介绍](https://web.archive.org/web/20210221153730if_/https://www.jianshu.com/p/6bae57859325)
