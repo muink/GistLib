@@ -71,6 +71,10 @@
 
 ### Forked
 
+  - [Arduino ADC 過抽樣技巧](https://web.archive.org/web/20220409113527/https://ohiyooo2.pixnet.net/blog/post/405449551)  
+  - [Arduino Oversampling](https://web.archive.org/web/20220409113326/https://www.best-microcontroller-projects.com/arduino-adc-oversampling.html)  
+  - [AVR121-使用過取樣增加ADC精度](https://web.archive.org/web/20220409113051/https://www.itread01.com/content/1550475205.html)  
+  - [如何加快analogRead速度提高采樣率Sampling Rate?](https://web.archive.org/web/20220409112938/https://www.arduino.cn/thread-12569-1-1.html)  
   - [关于程序中使用内部1.1V参考电压的问题](https://web.archive.org/web/20220216132223/https://www.arduino.cn/thread-11271-1-1.html)
   - [degree symbol on Oled screen using u8g](https://web.archive.org/web/20220216131145/https://forum.arduino.cc/t/degree-symbol-on-oled-screen-using-u8g/491533)
   - [How to print the degree symbol ? (extended ASCII)](https://web.archive.org/web/20220216131216/https://forum.arduino.cc/t/solved-how-to-print-the-degree-symbol-extended-ascii/438685)
