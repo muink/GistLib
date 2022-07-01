@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Netgear EAX20/EAX80 Open telnet and Unlock region][0876b673436293b2a72e3b02285a6496]
   - [常見網絡連接狀態指示器 (NCSI) 及強制門戶 (Captive Portal) 認證地址][cf333ed1ce0ef7cc24d1425dc854883e]
   - [通用 Captive Portal 檢測伺服器, 在中國大陸也可用][e1b118bc37e4b81e5ccfa082f70e0999]
   - [Disable Extensions Toolbar Menu in Google Chrome][5c007f3ac6cd695f2c9b0cee1fbe892c]
@@ -113,6 +114,7 @@
 
 --------
 
+[0876b673436293b2a72e3b02285a6496]: https://gist.github.com/muink/0876b673436293b2a72e3b02285a6496
 [cf333ed1ce0ef7cc24d1425dc854883e]: https://gist.github.com/muink/cf333ed1ce0ef7cc24d1425dc854883e
 [e1b118bc37e4b81e5ccfa082f70e0999]: https://gist.github.com/muink/e1b118bc37e4b81e5ccfa082f70e0999
 [3329f319e082a3602bbbc4d31ba2feb2]: https://gist.github.com/muink/3329f319e082a3602bbbc4d31ba2feb2
