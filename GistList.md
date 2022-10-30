@@ -51,6 +51,7 @@
 
 ### Tools
 
+  - [OpWRT install snippet][d241ab0aec7d9c34b69439c1e942d1f5]
   - [list-user-sid.bat][3ca7524d588c340867e9e753ccc7af51]
   - [IDN_homograph_attack.txt][30317bad07c06a71cddcd079359b3483]
   - [SteamAppKeysCleanAndExport.bat][67d885b22fd989d0742cc564781b8fee]
@@ -114,6 +115,7 @@
 
 --------
 
+[d241ab0aec7d9c34b69439c1e942d1f5]: https://gist.github.com/muink/d241ab0aec7d9c34b69439c1e942d1f5
 [0876b673436293b2a72e3b02285a6496]: https://gist.github.com/muink/0876b673436293b2a72e3b02285a6496
 [cf333ed1ce0ef7cc24d1425dc854883e]: https://gist.github.com/muink/cf333ed1ce0ef7cc24d1425dc854883e
 [e1b118bc37e4b81e5ccfa082f70e0999]: https://gist.github.com/muink/e1b118bc37e4b81e5ccfa082f70e0999
