@@ -51,6 +51,8 @@
 
 ### Tools
 
+  - [alwaysonline](https://github.com/Jamesits/alwaysonline)
+  - [NCSIOverride](https://github.com/dantmnf/NCSIOverride)
   - [OpWRT install snippet][d241ab0aec7d9c34b69439c1e942d1f5]
   - [list-user-sid.bat][3ca7524d588c340867e9e753ccc7af51]
   - [IDN_homograph_attack.txt][30317bad07c06a71cddcd079359b3483]
