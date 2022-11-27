@@ -75,6 +75,7 @@
 
 ### Forked
 
+  - [umask 指令 – 修改新檔案及目錄預設權限](https://www.ltsplus.com/linux/linux-umask-default-permission)
   - [Arduino ADC 過抽樣技巧](https://web.archive.org/web/20220409113527/https://ohiyooo2.pixnet.net/blog/post/405449551)  
   - [Arduino Oversampling](https://web.archive.org/web/20220409113326/https://www.best-microcontroller-projects.com/arduino-adc-oversampling.html)  
   - [AVR121-使用過取樣增加ADC精度](https://web.archive.org/web/20220409113051/https://www.itread01.com/content/1550475205.html)  
