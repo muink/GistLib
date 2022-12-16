@@ -75,6 +75,7 @@
 
 ### Forked
 
+  - [How to access SD Card in VirtualBox](https://web.archive.org/web/20221216155354/https://www.net-usb.com/virtual-usb/virtualbox-usb-passthrough/sd-card-in-virtualbox/)
   - [umask 指令 – 修改新檔案及目錄預設權限](https://www.ltsplus.com/linux/linux-umask-default-permission)
   - [Arduino ADC 過抽樣技巧](https://web.archive.org/web/20220409113527/https://ohiyooo2.pixnet.net/blog/post/405449551)  
   - [Arduino Oversampling](https://web.archive.org/web/20220409113326/https://www.best-microcontroller-projects.com/arduino-adc-oversampling.html)  
