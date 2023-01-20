@@ -75,6 +75,7 @@
 
 ### Forked
 
+  - [Chrome 清除某个特定网站下的缓存](https://web.archive.org/web/20180311191109/http://www.cnblogs.com/Chesky/p/chrome_disabling_cache.html)
   - [Domain/Subdomain](https://cyberbruharmy.gitbook.io/domain-subdomain/)
   - [How to access SD Card in VirtualBox](https://web.archive.org/web/20221216155354/https://www.net-usb.com/virtual-usb/virtualbox-usb-passthrough/sd-card-in-virtualbox/)
   - [umask 指令 – 修改新檔案及目錄預設權限](https://www.ltsplus.com/linux/linux-umask-default-permission)
