@@ -76,6 +76,7 @@
 
 ### Forked
 
+  - [Chrome 瀏覽器重新啟動](https://web.archive.org/web/20220903015706/https://free.com.tw/restart-google-chrome/)
   - [Chrome 清除某个特定网站下的缓存](https://web.archive.org/web/20180311191109/http://www.cnblogs.com/Chesky/p/chrome_disabling_cache.html)
   - [Domain/Subdomain](https://cyberbruharmy.gitbook.io/domain-subdomain/)
   - [How to access SD Card in VirtualBox](https://web.archive.org/web/20221216155354/https://www.net-usb.com/virtual-usb/virtualbox-usb-passthrough/sd-card-in-virtualbox/)
