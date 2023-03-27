@@ -76,6 +76,8 @@
 
 ### Forked
 
+  - [2022 申请 Office 365 E5 订阅并永久续期+ 5T 不限速网盘教程](https://web.archive.org/web/20230327021101/https://www.dzdxtd.com/archives/122)  
+  - [Office 365 永久版免費啟用與雲端OneDrive 5TB 永久取得教學](https://web.archive.org/web/20230327021045/https://mrmad.com.tw/office-365-e5-and-onedrive-5tb-free)  
   - [Chrome 瀏覽器重新啟動](https://web.archive.org/web/20220903015706/https://free.com.tw/restart-google-chrome/)
   - [Chrome 清除某个特定网站下的缓存](https://web.archive.org/web/20180311191109/http://www.cnblogs.com/Chesky/p/chrome_disabling_cache.html)
   - [Domain/Subdomain](https://cyberbruharmy.gitbook.io/domain-subdomain/)
