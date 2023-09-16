@@ -78,6 +78,7 @@
 
 ### Forked
 
+  - [Fix “Host key verification failed”](https://web.archive.org/web/20230817154400/https://haydenjames.io/fix-host-key-verification-failed/)
   - [VIRTUALBOX VDI 虛擬磁碟檔案瘦身](https://web.archive.org/web/20230906112931/https://scottj.idv.tw/blog/2014/04/29/virtualbox-vdi-%E8%99%9B%E6%93%AC%E7%A3%81%E7%A2%9F%E6%AA%94%E6%A1%88%E7%98%A6%E8%BA%AB/)
   - [How To Find My Public IP Address From Linux CLI](https://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/)
   - [cloudflare workers telegram bot api](https://web.archive.org/web/20230427060652/https://i19.eu/cloudflare-workers-telegram-bot-api/)
