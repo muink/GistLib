@@ -54,6 +54,7 @@
 
 ### Tools
 
+  - [urldecode.jq][1831f68fe8702480fb205cf7d5a06f17]
   - [Proxmox VE install tools][5de439284486ef0dd1ba777da052b04f]
   - [alwaysonline](https://github.com/Jamesits/alwaysonline)
   - [NCSIOverride](https://github.com/dantmnf/NCSIOverride)
@@ -134,6 +135,7 @@
 
 --------
 
+[1831f68fe8702480fb205cf7d5a06f17]: https://gist.github.com/muink/1831f68fe8702480fb205cf7d5a06f17
 [5de439284486ef0dd1ba777da052b04f]: https://gist.github.com/muink/5de439284486ef0dd1ba777da052b04f
 [a846a0890803b355c2f75342a653a9b3]: https://gist.github.com/muink/a846a0890803b355c2f75342a653a9b3
 [460cb60c8417a4963be92771b1f561aa]: https://gist.github.com/muink/460cb60c8417a4963be92771b1f561aa
