@@ -81,6 +81,7 @@
 
 ### Forked
 
+  - [漫谈NAT（一）：各种NAT类型 - KAAAsS's blog](https://blog.kaaass.net/archives/1587)
   - [有裝K-Lite Corec Pack 自己就可以輕鬆調整字幕存檔！](https://www.mobile01.com/topicdetail.php?f=510&t=1420222)
   - [清理Chrome和Edge的Service Worker](https://web.archive.org/web/20230326160903/https://home.gamer.com.tw/artwork.php?sn=5641157)
   - [每个Windows用户都应该准备这2个USB启动盘！以防万一](https://web.archive.org/web/20230918141817/https://www.freedidi.com/10441.html)
