@@ -81,6 +81,7 @@
 
 ### Forked
 
+  - [STUN (RFC 3489) vs. STUN (RFC 5389/5780)](https://netmanias.com/en/post/techdocs/6065/nat-network-protocol/stun-rfc-3489-vs-stun-rfc-5389-5780)
   - [漫谈NAT（一）：各种NAT类型 - KAAAsS's blog](https://blog.kaaass.net/archives/1587)
   - [有裝K-Lite Corec Pack 自己就可以輕鬆調整字幕存檔！](https://www.mobile01.com/topicdetail.php?f=510&t=1420222)
   - [清理Chrome和Edge的Service Worker](https://web.archive.org/web/20230326160903/https://home.gamer.com.tw/artwork.php?sn=5641157)
