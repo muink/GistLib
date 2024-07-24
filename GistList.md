@@ -2,6 +2,7 @@
 
 ### My
 
+  - [Youtube 节点地区分配][268f740a6bc8e779c6e90416afd2450c]
   - [Network address processing code snippet][a846a0890803b355c2f75342a653a9b3]
   - [Get DNS PTR][460cb60c8417a4963be92771b1f561aa]
   - [extend-harddisk-image.md][918f0d66e1bc0e77477b29fced217912]
@@ -142,6 +143,7 @@
 
 --------
 
+[268f740a6bc8e779c6e90416afd2450c]: https://gist.github.com/muink/268f740a6bc8e779c6e90416afd2450c
 [a901839ab52d41da3fc588f523fc6d75]: https://gist.github.com/muink/a901839ab52d41da3fc588f523fc6d75
 [5fab45f29e0670b83b4efa2a48e9d7d7]: https://gist.github.com/muink/5fab45f29e0670b83b4efa2a48e9d7d7
 [1831f68fe8702480fb205cf7d5a06f17]: https://gist.github.com/muink/1831f68fe8702480fb205cf7d5a06f17
