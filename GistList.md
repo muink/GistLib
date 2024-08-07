@@ -81,6 +81,7 @@
 
 
 ### Forked
+  - [PowerShell 安装和删除字体](https://www.tjxblog.com/blog/2023-0004)
   - [Google 域名的秘密][a901839ab52d41da3fc588f523fc6d75]
   - [Linux 記憶體耗盡清除快取 Memory Cache 取得更多記憶體](https://www.cjkuo.net/linux_clean_memory_cache/)
   - [Linux系列—策略路由、ip rule、ip route](https://www.cnblogs.com/wanstack/p/7728785.html)
