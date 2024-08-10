@@ -81,6 +81,7 @@
 
 
 ### Forked
+  - [还有啥类似 ip.sb， 可以curl查ip的站点么](https://hostloc.com/thread-954782-1-1.html)
   - [Linux系列—策略路由、ip rule、ip route](https://web.archive.org/web/20240414145545/https://www.cnblogs.com/wanstack/p/7728785.html)
   - [PowerShell 安装和删除字体](https://www.tjxblog.com/blog/2023-0004)
   - [Google 域名的秘密][a901839ab52d41da3fc588f523fc6d75]
