@@ -81,6 +81,9 @@
 
 
 ### Forked
+  - [nftables 使用教程](https://web.archive.org/web/20240914143938/https://www.cnblogs.com/ryanyangcs/p/11611730.html)
+  - [Netfilter hooks](https://wiki.nftables.org/wiki-nftables/index.php/Netfilter_hooks)
+  - [nftables 配置与使用记录](https://web.archive.org/web/20240222175612/https://blog.starryvoid.com/archives/1045.html)
   - [RFC3986 URI format](https://datatracker.ietf.org/doc/html/rfc3986#autoid-69)
   - [网络协议之: haproxy 的 Proxy Protocol 代理协议](https://web.archive.org/web/20240722020542/https://www.cnblogs.com/flydean/p/16317933.html)
   - [还有啥类似 ip.sb， 可以curl查ip的站点么](https://hostloc.com/thread-954782-1-1.html)
