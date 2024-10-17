@@ -81,6 +81,11 @@
 
 
 ### Forked
+  - [包的路由转圈圈——谈谈使用nftables配置透明代理碰到的那些坑](https://koswu.github.io/2019/08/19/tproxy-config-with-nftables/)
+  - [关于使用 nftables 实现透明代理的几点疑问](https://github.com/XTLS/Xray-core/discussions/2434)
+  - [Openwrt+V2ray+dnsmasq实现透明代理（三](https://qdfish.github.io/sakamoto.blog/2024/02/21/network/v2ray3/)
+  - [透明代理 - Hysteria 2](https://v2.hysteria.network/zh/docs/advanced/TPROXY/#__tabbed_2_3)
+  - [tproxy（透明代理） | Linux 学习笔记](https://www.zhaohuabing.com/learning-linux/docs/tproxy/)
   - [nftables 使用教程](https://web.archive.org/web/20240914143938/https://www.cnblogs.com/ryanyangcs/p/11611730.html)
   - [Netfilter hooks](https://wiki.nftables.org/wiki-nftables/index.php/Netfilter_hooks)
   - [nftables 配置与使用记录](https://web.archive.org/web/20240222175612/https://blog.starryvoid.com/archives/1045.html)
