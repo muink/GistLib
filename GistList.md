@@ -81,6 +81,7 @@
 
 
 ### Forked
+  - [How to delete a file tracked by git-lfs and release the storage quota?](https://stackoverflow.com/questions/34579211/how-to-delete-a-file-tracked-by-git-lfs-and-release-the-storage-quota/76944147#76944147)
   - [包的路由转圈圈——谈谈使用nftables配置透明代理碰到的那些坑](https://koswu.github.io/2019/08/19/tproxy-config-with-nftables/)
   - [关于使用 nftables 实现透明代理的几点疑问](https://github.com/XTLS/Xray-core/discussions/2434)
   - [Openwrt+V2ray+dnsmasq实现透明代理（三](https://qdfish.github.io/sakamoto.blog/2024/02/21/network/v2ray3/)
