@@ -81,6 +81,7 @@
 
 
 ### Forked
+  - [Linux Here Document 與 cat + EOF 的使用](https://jiepeng.me/2020/03/02/linux-here-document-with-cat-and-eof)
   - [IPv6 Autoconfiguration with SLAAC and NDP, how does it work?](https://www.fredrikholmberg.com/2012/05/ipv6-autoconfiguration-with-slaac-and-ndp-how-does-it-work/)
   - [使用squashfs-tools和binwalk修改路由/光猫固件rootfs文件](https://web.archive.org/web/20240920133625/https://www.haiyun.me/archives/1466.html)
   - [How to delete a file tracked by git-lfs and release the storage quota?](https://stackoverflow.com/questions/34579211/how-to-delete-a-file-tracked-by-git-lfs-and-release-the-storage-quota/76944147#76944147)
