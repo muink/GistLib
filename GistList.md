@@ -81,6 +81,7 @@
 
 
 ### Forked
+  - [IPv6 Autoconfiguration with SLAAC and NDP, how does it work?](https://www.fredrikholmberg.com/2012/05/ipv6-autoconfiguration-with-slaac-and-ndp-how-does-it-work/)
   - [使用squashfs-tools和binwalk修改路由/光猫固件rootfs文件](https://web.archive.org/web/20240920133625/https://www.haiyun.me/archives/1466.html)
   - [How to delete a file tracked by git-lfs and release the storage quota?](https://stackoverflow.com/questions/34579211/how-to-delete-a-file-tracked-by-git-lfs-and-release-the-storage-quota/76944147#76944147)
   - [包的路由转圈圈——谈谈使用nftables配置透明代理碰到的那些坑](https://koswu.github.io/2019/08/19/tproxy-config-with-nftables/)
