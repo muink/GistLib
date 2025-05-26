@@ -81,6 +81,8 @@
 
 
 ### Forked
+  - [OhMyECH - ECH Indicator](https://github.com/27justin/ohmyech)
+  - [关于 Encrypted client hello(ECH)的一个小提醒](https://www.v2ex.com/t/1080301)
   - [Arduino Uno CH340 programming error](https://web.archive.org/web/20250506114603/https://balajimitplane.blogspot.com/2025/04/arduino-uno-ch340-programming-error.html)
   - [Linux Here Document 與 cat + EOF 的使用](https://jiepeng.me/2020/03/02/linux-here-document-with-cat-and-eof)
   - [IPv6 Autoconfiguration with SLAAC and NDP, how does it work?](https://www.fredrikholmberg.com/2012/05/ipv6-autoconfiguration-with-slaac-and-ndp-how-does-it-work/)
