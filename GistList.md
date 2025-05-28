@@ -81,6 +81,7 @@
 
 
 ### Forked
+  - [Generate dnsmasq configuration for HTTPS resource records (RFC 9460)](https://gist.github.com/alxrdn/bc3b2a4beed431d7f1b2f606fe9332e9)
   - [OhMyECH - ECH Indicator](https://github.com/27justin/ohmyech)
   - [关于 Encrypted client hello(ECH)的一个小提醒](https://www.v2ex.com/t/1080301)
   - [Arduino Uno CH340 programming error](https://web.archive.org/web/20250506114603/https://balajimitplane.blogspot.com/2025/04/arduino-uno-ch340-programming-error.html)
