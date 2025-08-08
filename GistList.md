@@ -2,6 +2,7 @@
 
 ### My
 
+  - [新版亚马逊APP切换国家教程][7e2f4d804877014109bb102ea2e6bca8]
   - [Youtube 节点地区分配][268f740a6bc8e779c6e90416afd2450c]
   - [Network address processing code snippet][a846a0890803b355c2f75342a653a9b3]
   - [Get DNS PTR][460cb60c8417a4963be92771b1f561aa]
@@ -164,6 +165,7 @@
 
 --------
 
+[7e2f4d804877014109bb102ea2e6bca8]: https://gist.github.com/muink/7e2f4d804877014109bb102ea2e6bca8
 [268f740a6bc8e779c6e90416afd2450c]: https://gist.github.com/muink/268f740a6bc8e779c6e90416afd2450c
 [a901839ab52d41da3fc588f523fc6d75]: https://gist.github.com/muink/a901839ab52d41da3fc588f523fc6d75
 [5fab45f29e0670b83b4efa2a48e9d7d7]: https://gist.github.com/muink/5fab45f29e0670b83b4efa2a48e9d7d7
@@ -238,3 +240,4 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
