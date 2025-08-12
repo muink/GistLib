@@ -82,6 +82,8 @@
 
 
 ### Forked
+  - [[Rooted Android] 3.x Steam 新版导出令牌的另另一种思路](https://github.com/BeyondDimension/SteamTools/issues/2598)
+  - [將 Steam 2FA 添加到 Bitwarden 中](https://xyouyou.link/jiang-Steam-2FA-tian-jia-dao-Bitwarden-zhong)
   - [Generate dnsmasq configuration for HTTPS resource records (RFC 9460)](https://gist.github.com/alxrdn/bc3b2a4beed431d7f1b2f606fe9332e9)
   - [OhMyECH - ECH Indicator](https://github.com/27justin/ohmyech)
   - [关于 Encrypted client hello(ECH)的一个小提醒](https://www.v2ex.com/t/1080301)
