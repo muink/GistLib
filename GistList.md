@@ -37,6 +37,7 @@
 
 ### Operating system
 
+  - [在已 root 的 AB 分区 Android 设备上应用增量 OTA][9359e5a944bc5ba16f1da6f94d42621d]
   - [Magisk Safetynet fix][3329f319e082a3602bbbc4d31ba2feb2]
   - [Access /data/data on Android 11/12][44f33ce2f4c6055a6d428e007569bb0a]
   - [在rooted設備上使用Magisk進行OTA更新[保留root和TWRP]][6168ee24b2376e7073adf9825e006d49]
@@ -167,6 +168,7 @@
 
 --------
 
+[9359e5a944bc5ba16f1da6f94d42621d]: https://gist.github.com/muink/9359e5a944bc5ba16f1da6f94d42621d
 [7e2f4d804877014109bb102ea2e6bca8]: https://gist.github.com/muink/7e2f4d804877014109bb102ea2e6bca8
 [268f740a6bc8e779c6e90416afd2450c]: https://gist.github.com/muink/268f740a6bc8e779c6e90416afd2450c
 [a901839ab52d41da3fc588f523fc6d75]: https://gist.github.com/muink/a901839ab52d41da3fc588f523fc6d75
@@ -242,4 +244,5 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
