@@ -83,6 +83,8 @@
 
 
 ### Forked
+  - [Battle.net Authenticator Tool](https://github.com/Nighthawk42/bnet_auth_tool)
+  - [Here is my guide on how to attach an authenticator to a Battle.net account](https://github.com/jleclanche/python-bna/issues/42#issue-2547679166)
   - [[Rooted Android] 3.x Steam 新版导出令牌的另另一种思路](https://github.com/BeyondDimension/SteamTools/issues/2598)
   - [將 Steam 2FA 添加到 Bitwarden 中](https://xyouyou.link/jiang-Steam-2FA-tian-jia-dao-Bitwarden-zhong)
   - [Generate dnsmasq configuration for HTTPS resource records (RFC 9460)](https://gist.github.com/alxrdn/bc3b2a4beed431d7f1b2f606fe9332e9)
@@ -244,5 +246,6 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
 
