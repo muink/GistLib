@@ -37,7 +37,9 @@
 
 ### Operating system
 
-  - [在已 root 的 AB 分区 Android 设备上应用增量 OTA][9359e5a944bc5ba16f1da6f94d42621d]
+  - [OnePlus USB Drivers](https://oneplususbdrivers.com)
+  - [如何正确的安装 Google USB 驱动搞定adb fastboot 驱动程序](https://bbs.oneplus.com/thread/5927219)
+  - [在已 root 的 AB 分区 Android 设备上应用增量 OTA][9359e5a944bc5ba16f1da6f94d42621d] 不保证正常工作, 后果自负
   - [Magisk Safetynet fix][3329f319e082a3602bbbc4d31ba2feb2]
   - [Access /data/data on Android 11/12][44f33ce2f4c6055a6d428e007569bb0a]
   - [在rooted設備上使用Magisk進行OTA更新[保留root和TWRP]][6168ee24b2376e7073adf9825e006d49]
