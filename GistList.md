@@ -59,6 +59,7 @@
 
 ### Tools
 
+  - [SM-DP2QRcode.sh][ba0415f18e33e5e5e42eb03c64ca47c5]
   - [parallel.sh][5fab45f29e0670b83b4efa2a48e9d7d7]
   - [urldecode.jq][1831f68fe8702480fb205cf7d5a06f17]
   - [Proxmox VE install tools][5de439284486ef0dd1ba777da052b04f]
@@ -174,6 +175,7 @@
 
 --------
 
+[ba0415f18e33e5e5e42eb03c64ca47c5]: https://gist.github.com/muink/ba0415f18e33e5e5e42eb03c64ca47c5
 [9359e5a944bc5ba16f1da6f94d42621d]: https://gist.github.com/muink/9359e5a944bc5ba16f1da6f94d42621d
 [7e2f4d804877014109bb102ea2e6bca8]: https://gist.github.com/muink/7e2f4d804877014109bb102ea2e6bca8
 [268f740a6bc8e779c6e90416afd2450c]: https://gist.github.com/muink/268f740a6bc8e779c6e90416afd2450c
@@ -250,6 +252,7 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
 
 
