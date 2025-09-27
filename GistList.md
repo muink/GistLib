@@ -86,6 +86,7 @@
 
 
 ### Forked
+  - [解決Ubuntu系統pip install的externally-managed-environment錯誤，改用虛擬環境安裝套件](https://ivonblog.com/posts/linux-solve-externally-managed-environment-error/)
   - [在 ColorOS 上免 root 玩机，请先打开这个开关](https://sspai.com/post/67110)
   - [Battle.net Authenticator Tool](https://github.com/Nighthawk42/bnet_auth_tool)
   - [Here is my guide on how to attach an authenticator to a Battle.net account](https://github.com/jleclanche/python-bna/issues/42#issue-2547679166)
@@ -252,6 +253,7 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
 
 
