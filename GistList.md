@@ -37,6 +37,7 @@
 
 ### Operating system
 
+  - [未安装 Hyper-V 卻一直自动安装 Hyper-V Virtual Ethernet Adapters][801214a40315f5fb358662a875b14937]
   - [OnePlus USB Drivers](https://oneplususbdrivers.com)
   - [如何正确的安装 Google USB 驱动搞定adb fastboot 驱动程序](https://bbs.oneplus.com/thread/5927219)
   - [在已 root 的 AB 分区 Android 设备上应用增量 OTA][9359e5a944bc5ba16f1da6f94d42621d] 不保证正常工作, 后果自负
@@ -176,6 +177,7 @@
 
 --------
 
+[801214a40315f5fb358662a875b14937]: https://gist.github.com/muink/801214a40315f5fb358662a875b14937
 [ba0415f18e33e5e5e42eb03c64ca47c5]: https://gist.github.com/muink/ba0415f18e33e5e5e42eb03c64ca47c5
 [9359e5a944bc5ba16f1da6f94d42621d]: https://gist.github.com/muink/9359e5a944bc5ba16f1da6f94d42621d
 [7e2f4d804877014109bb102ea2e6bca8]: https://gist.github.com/muink/7e2f4d804877014109bb102ea2e6bca8
@@ -253,6 +255,7 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
 
 
