@@ -36,6 +36,7 @@
 
 ### Operating system
 
+  - [Android FBE](495777d998553966e47acbdc23a57e85)
   - [Android Boot users Backup and Restore][d3cb6856ef0d0886a0f0b038d69faa8c]
   - [未安装 Hyper-V 卻一直自动安装 Hyper-V Virtual Ethernet Adapters][801214a40315f5fb358662a875b14937]
   - [OnePlus USB Drivers](https://oneplususbdrivers.com)
@@ -180,6 +181,7 @@
 
 --------
 
+[495777d998553966e47acbdc23a57e85]: https://gist.github.com/muink/495777d998553966e47acbdc23a57e85
 [d3cb6856ef0d0886a0f0b038d69faa8c]: https://gist.github.com/muink/d3cb6856ef0d0886a0f0b038d69faa8c
 [801214a40315f5fb358662a875b14937]: https://gist.github.com/muink/801214a40315f5fb358662a875b14937
 [ba0415f18e33e5e5e42eb03c64ca47c5]: https://gist.github.com/muink/ba0415f18e33e5e5e42eb03c64ca47c5
@@ -259,6 +261,7 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
 
 
