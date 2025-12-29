@@ -89,6 +89,7 @@
 
 
 ### Forked
+  - [Updating systemd in WSL1 Kali Linux fails with Failed to take /etc/passwd lock: Invalid argument](https://github.com/microsoft/WSL/issues/10397)
   - [git 稀疏检出和部分克隆](https://juejin.cn/post/7357374179648192512)
   - [Flatpak vs Snap vs AppImage，跨Linux發行版的套件格式比較](https://ivonblog.com/posts/flatpak-snap-appimage-comparison/)
   - [解決Ubuntu系統pip install的externally-managed-environment錯誤，改用虛擬環境安裝套件](https://ivonblog.com/posts/linux-solve-externally-managed-environment-error/)
@@ -261,6 +262,7 @@
 [0356af6c133ee0fc82c8]: https://gist.github.com/muink/0356af6c133ee0fc82c8
 [6c4b4a5c90eea956c30a]: https://gist.github.com/muink/6c4b4a5c90eea956c30a
 [c53d05e07d69c6d0830e]: https://gist.github.com/muink/c53d05e07d69c6d0830e
+
 
 
 
