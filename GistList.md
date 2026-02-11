@@ -89,6 +89,8 @@
 
 
 ### Forked
+
+  - [夸克网盘不限速教程](https://github.com/muink/GistLib/blob/master/QuarkCloud-unlimited-speed/2025.7最新夸克网盘不限速教程.html)
   - [Github仓库由于DMCA被封怎么办?](https://web.archive.org/web/20251015144642/https://chegva.com/5145.html)
   - [Updating systemd in WSL1 Kali Linux fails with Failed to take /etc/passwd lock: Invalid argument](https://github.com/microsoft/WSL/issues/10397)
   - [git 稀疏检出和部分克隆](https://juejin.cn/post/7357374179648192512)
