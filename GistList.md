@@ -61,6 +61,7 @@
 
 ### Tools
 
+  - [VirtualBox-killer.bat][2955722866b31f8958c16eb6e52ae0ec]
   - [SM-DP2QRcode.sh][ba0415f18e33e5e5e42eb03c64ca47c5]
   - [parallel.sh][5fab45f29e0670b83b4efa2a48e9d7d7]
   - [urldecode.jq][1831f68fe8702480fb205cf7d5a06f17]
@@ -188,6 +189,7 @@
 --------
 
 <!-- My -->
+[2955722866b31f8958c16eb6e52ae0ec]: https://gist.github.com/muink/2955722866b31f8958c16eb6e52ae0ec
 [495777d998553966e47acbdc23a57e85]: https://gist.github.com/muink/495777d998553966e47acbdc23a57e85
 [d3cb6856ef0d0886a0f0b038d69faa8c]: https://gist.github.com/muink/d3cb6856ef0d0886a0f0b038d69faa8c
 [801214a40315f5fb358662a875b14937]: https://gist.github.com/muink/801214a40315f5fb358662a875b14937
